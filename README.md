@@ -28,6 +28,10 @@
 
 ### Visual Effects
 
+## Related Directories
+
+- [RespawnStack](https://respawnstack.com) - Free directory of pricing, commercial-use and ownership terms for AI game-dev tools (source-cited).
+
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
